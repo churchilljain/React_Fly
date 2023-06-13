@@ -101,7 +101,7 @@ const Footer = () => {
       </div>
 
       <div className="copyRightDiv flex">
-        <p>Courtsey Design | Developed by <a href='https://emailto-churchilkauchhal@gmil.com' target='_blank'>IsraTech</a></p>
+        <p>Courtsey Design | Developed by <a href='https://emailto-churchilkauchhal@gmil.com' target='_blank'>Churchill.jain</a></p>
       </div>
     </div>
   )
